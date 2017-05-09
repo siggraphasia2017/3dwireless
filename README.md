@@ -1,3 +1,5 @@
+This repository contains the STLs used to produce the 3D prints in Paper #0106 for SIGGRAPH Asia: "3D Printing Wireless Communication".
+
 **/maglink**<br/>
 Original MagLink models (Fig. 2, 18, 19)
 
